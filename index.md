@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: 'Welcome Flutter Friends in Chicago!'
-description: null
-image: null
+description: 'Welcome Flutter Friends in Chicago!'
+image: assets/images/chicago_flutter_flag.png
 author: null
 show_tile: false
 ---
