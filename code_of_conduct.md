@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: landing
 description: "All attendees, speakers, sponsors and volunteers at our event/meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody."
-image: assets/images/chicago_flutter_flag.png
+image: null
 nav-menu: true
 ---
 
