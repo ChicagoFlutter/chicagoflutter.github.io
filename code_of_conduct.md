@@ -2,7 +2,7 @@
 title: Code of Conduct
 layout: landing
 description: "All attendees, speakers, sponsors and volunteers at our event/meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody."
-image: assets/images/chicago_flutter_flag.jpg
+image: assets/images/chicago_flutter_flag.png
 nav-menu: true
 ---
 
@@ -42,8 +42,10 @@ nav-menu: true
 	</div>
 </section>
 
-<p>
-Credits to <a href="https://confcodeofconduct.com">https://confcodeofconduct.com</a> for their Code of Conduct.
-</p>
+<section id="four">
+	<div class="inner">
+		<p>Credits to <a href="https://confcodeofconduct.com">https://confcodeofconduct.com</a> for their Code of Conduct.</p>
+	</div>
+</section>
 
 </div>
