@@ -1,0 +1,36 @@
+# site settings
+title: Chicago Flutter
+subtitle: Meetup
+email: community@chicagoflutter.com
+description: Chicago Flutter Meetup
+baseurl: # the subpath of your site, e.g. /blog
+url: https://chicagoflutter.com # the base hostname & protocol for your site
+author: Jorge Coca
+street_address: 540 W Madison St. Suite 2400 (BMW Tech)
+city: Chicago
+state: IL
+zip_code: 60661
+country: United States of America
+phone: (773) 963-3698
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/ChicagoFlutter
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url: https://flutterstudygroup.slack.com/messages/CDZAE1S2U
+twitter_url: https://twitter.com/ChicagoFlutter
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
