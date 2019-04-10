@@ -28,6 +28,7 @@ linkedin_url:
 pinterest_url:
 slack_url: https://flutterstudygroup.slack.com/messages/CDZAE1S2U
 twitter_url: https://twitter.com/ChicagoFlutter
+meetup_url: https://www.meetup.com/Flutter-Chicago
 
 # build settings
 markdown: kramdown
