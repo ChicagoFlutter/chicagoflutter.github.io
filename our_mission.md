@@ -2,7 +2,7 @@
 layout: post
 title: Our Mission
 description: Lorem ipsum dolor est
-image: assets/images/studyjam1.jpg
+image: assets/images/studyjam1.jpeg
 nav-menu: true
 ---
 
