@@ -4,6 +4,7 @@ title: Our Mission
 description: Who we are and why do we organize this event
 image: assets/images/studyjam1.jpeg
 nav-menu: true
+show_tile: true
 ---
 
 Hi! My name is [Jorge Coca](https://jcocaramos.dev), and I am the main organizer of the [Chicago Flutter Meetup](https://www.meetup.com/Flutter-Chicago/).
